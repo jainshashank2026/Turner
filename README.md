@@ -1,6 +1,8 @@
-# Turner
+# Turner (built via AI)
 
 Turner is a fun, interactive web application and PWA (Progressive Web App) that helps you randomly choose a person from a group. It's perfect for deciding who goes first in a game, who pays the bill, or who has to do the chores!
+
+Built completely using AI (Google AI Studio) with 0 lines of code written manually!
 
 Link: https://turner-games.web.app/
 
@@ -27,6 +29,7 @@ Link: https://turner-games.web.app/
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Framer Motion](https://www.framer.com/motion/)
 - [Lucide React](https://lucide.dev/) (Icons)
+- [Firebase] (Hosting)
 
 ## Development
 
