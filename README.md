@@ -2,6 +2,8 @@
 
 Turner is a fun, interactive web application and PWA (Progressive Web App) that helps you randomly choose a person from a group. It's perfect for deciding who goes first in a game, who pays the bill, or who has to do the chores!
 
+Link: https://turner-games.web.app/
+
 ## How to Play
 
 1. Gather your friends around the screen.
