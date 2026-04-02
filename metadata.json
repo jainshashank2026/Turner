@@ -1,0 +1,5 @@
+{
+  "name": "Turner",
+  "description": "A simple app to randomly select one person among multiple people touching the screen.",
+  "requestFramePermissions": []
+}
